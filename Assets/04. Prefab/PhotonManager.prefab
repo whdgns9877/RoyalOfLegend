@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1644134709848652158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 676656920704140728}
+  - component: {fileID: 9129312156854498152}
+  - component: {fileID: 8165135177080405831}
+  m_Layer: 0
+  m_Name: PhotonManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &676656920704140728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644134709848652158}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9129312156854498152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644134709848652158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  Synchronization: 0
+  OwnershipTransfer: 0
+  ObservedComponents:
+  - {fileID: 0}
+  viewIdField: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
+--- !u!114 &8165135177080405831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644134709848652158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c48feca0d4b5184b9d8978690f79307, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  userState: 0
+  onLeftRoom: 0
+  canvas: {fileID: 0}
+  MessageBox: {fileID: 0}
+  MessageBox_Text: {fileID: 0}
+  LoginPanel: {fileID: 0}
+  LoginButton_false: {fileID: 0}
+  LoginButton_true: {fileID: 0}
+  IDInputField: {fileID: 0}
+  PWInputField: {fileID: 0}
+  SelectRoomPanel: {fileID: 0}
+  CreateRoomPanel: {fileID: 0}
+  CreateRoomButton: {fileID: 0}
+  CreateButton: {fileID: 0}
+  RoomName: {fileID: 0}
+  Room: {fileID: 4481061420470268310, guid: 3fc9d5e7c7affc548916d20a976a3797, type: 3}
+  GridTr: {fileID: 0}
+  LoadingObject: {fileID: 0}
+  SignUpButton: {fileID: 0}
+  DropOutButton: {fileID: 0}
+  Membership_Panel: {fileID: 0}
+  Membership_Text: {fileID: 0}
+  Membership_ID_InputField: {fileID: 0}
+  Membership_PW_InputField: {fileID: 0}
+  Membership_OK_btn: {fileID: 0}
+  RoomPanel: {fileID: 0}
+  RedPlayer:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  BluePlayer:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  RedPlayer_Ready:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  BluePlayer_Ready:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  Champ_all:
+  - {fileID: 0}
+  - {fileID: 0}
+  ReadyButton: {fileID: 0}
+  RoomName_RoomPanel: {fileID: 0}
+  OutRoomButton_RoomPanel: {fileID: 0}
+  EndPanel: {fileID: 0}
+  RestartButton: {fileID: 0}
+  GoRoomButton: {fileID: 0}
+  ResultText: {fileID: 0}
+  RedPlayer_ResultPanel:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  BluePlayer_ResultPanel:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  LoginButton: {fileID: 8300000, guid: ae7fd48d05b857649868526e4004cd93, type: 3}
+  LogoutButton: {fileID: 8300000, guid: 6348e96a0cfcacb47a5357f095916ec8, type: 3}
+  JoinLobby: {fileID: 8300000, guid: 0b23d95c4b2cabe46aa520147ad57ca3, type: 3}
+  JoinRoomButton: {fileID: 8300000, guid: c724346fe84bbd848a09e912a04c134a, type: 3}
+  EnterRoom: {fileID: 8300000, guid: ee797e0622b13b14e9eb7533cad2a7bd, type: 3}
+  InRoom: {fileID: 8300000, guid: a74c34cbfcfffe745b239fdd0e7c17b1, type: 3}
+  OutRoom: {fileID: 8300000, guid: bad2075c5962a654aa0d45311cf1e04a, type: 3}
+  Ready: {fileID: 8300000, guid: aa02b78871590c1459268641594463d8, type: 3}
+  SelectIcon: {fileID: 8300000, guid: d4041dbbb9bf56a478f484b3ace95bd7, type: 3}
+  Kisses:
+  - {fileID: 8300000, guid: 4f04b87e33a915940b2c48ea0841a160, type: 3}
+  - {fileID: 8300000, guid: 6980fce4ef88bdf42ab592b4fabe8042, type: 3}
+  - {fileID: 8300000, guid: 745e83e44d433d6488448f801800a631, type: 3}

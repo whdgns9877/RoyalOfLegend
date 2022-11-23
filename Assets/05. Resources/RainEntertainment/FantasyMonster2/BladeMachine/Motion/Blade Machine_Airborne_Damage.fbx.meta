@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: b896b3caab5033a40979ead54f4029ff
+timeCreated: 1534572332
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001-L-Clavicle
+    100004: Bip001-L-Forearm
+    100006: Bip001-L-Hand
+    100008: Bip001-L-UpperArm
+    100010: Bip001-Pelvis
+    100012: Bip001-R-Clavicle
+    100014: Bip001-R-Forearm
+    100016: Bip001-R-Hand
+    100018: Bip001-R-UpperArm
+    100020: Bip001-Spine
+    100022: Bip001-Spine1
+    100024: Bip001-Spine2
+    100026: //RootNode
+    100028: Dummy_Root
+    100030: Fin_L_01
+    100032: Fin_L_02
+    100034: Fin_R_01
+    100036: Fin_R_02
+    100038: Forefinger_L
+    100040: Forefinger_R
+    100042: FXDummy_Body
+    100044: FXDummy_Head
+    100046: FXDummy_LHand
+    100048: FXDummy_RHand
+    100050: Leg_B_L_01
+    100052: Leg_B_L_02
+    100054: Leg_B_L_03
+    100056: Leg_B_L_End
+    100058: Leg_B_R_01
+    100060: Leg_B_R_02
+    100062: Leg_B_R_03
+    100064: Leg_B_R_End
+    100066: Leg_F_L_01
+    100068: Leg_F_L_02
+    100070: Leg_F_L_03
+    100072: Leg_F_L_End
+    100074: Leg_F_R_01
+    100076: Leg_F_R_02
+    100078: Leg_F_R_03
+    100080: Leg_F_R_End
+    100082: MOC_Scouter_SKEL
+    400000: Bip001
+    400002: Bip001-L-Clavicle
+    400004: Bip001-L-Forearm
+    400006: Bip001-L-Hand
+    400008: Bip001-L-UpperArm
+    400010: Bip001-Pelvis
+    400012: Bip001-R-Clavicle
+    400014: Bip001-R-Forearm
+    400016: Bip001-R-Hand
+    400018: Bip001-R-UpperArm
+    400020: Bip001-Spine
+    400022: Bip001-Spine1
+    400024: Bip001-Spine2
+    400026: //RootNode
+    400028: Dummy_Root
+    400030: Fin_L_01
+    400032: Fin_L_02
+    400034: Fin_R_01
+    400036: Fin_R_02
+    400038: Forefinger_L
+    400040: Forefinger_R
+    400042: FXDummy_Body
+    400044: FXDummy_Head
+    400046: FXDummy_LHand
+    400048: FXDummy_RHand
+    400050: Leg_B_L_01
+    400052: Leg_B_L_02
+    400054: Leg_B_L_03
+    400056: Leg_B_L_End
+    400058: Leg_B_R_01
+    400060: Leg_B_R_02
+    400062: Leg_B_R_03
+    400064: Leg_B_R_End
+    400066: Leg_F_L_01
+    400068: Leg_F_L_02
+    400070: Leg_F_L_03
+    400072: Leg_F_L_End
+    400074: Leg_F_R_01
+    400076: Leg_F_R_02
+    400078: Leg_F_R_03
+    400080: Leg_F_R_End
+    400082: MOC_Scouter_SKEL
+    4300000: MOC_Scouter_SKEL
+    7400000: Take 001
+    7400002: Airborne_Damage
+    9500000: //RootNode
+    13700000: MOC_Scouter_SKEL
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Airborne_Damage
+      takeName: Airborne_Damage
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dummy_Root
+        weight: 1
+      - path: Dummy_Root/Bip001
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-L-Clavicle
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-L-Clavicle/Bip001-L-UpperArm
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-L-Clavicle/Bip001-L-UpperArm/Bip001-L-Forearm
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-L-Clavicle/Bip001-L-UpperArm/Bip001-L-Forearm/Bip001-L-Hand
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-L-Clavicle/Bip001-L-UpperArm/Bip001-L-Forearm/Bip001-L-Hand/Forefinger_L
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-L-Clavicle/Bip001-L-UpperArm/Bip001-L-Forearm/Bip001-L-Hand/FXDummy_LHand
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-R-Clavicle
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-R-Clavicle/Bip001-R-UpperArm
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-R-Clavicle/Bip001-R-UpperArm/Bip001-R-Forearm
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-R-Clavicle/Bip001-R-UpperArm/Bip001-R-Forearm/Bip001-R-Hand
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-R-Clavicle/Bip001-R-UpperArm/Bip001-R-Forearm/Bip001-R-Hand/Forefinger_R
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Bip001-R-Clavicle/Bip001-R-UpperArm/Bip001-R-Forearm/Bip001-R-Hand/FXDummy_RHand
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Fin_L_01
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Fin_L_02
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Fin_R_01
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/Fin_R_02
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/FXDummy_Body
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Bip001-Spine/Bip001-Spine1/Bip001-Spine2/FXDummy_Head
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_L_01
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_L_01/Leg_B_L_02
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_L_01/Leg_B_L_02/Leg_B_L_03
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_L_01/Leg_B_L_02/Leg_B_L_03/Leg_B_L_End
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_R_01
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_R_01/Leg_B_R_02
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_R_01/Leg_B_R_02/Leg_B_R_03
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_B_R_01/Leg_B_R_02/Leg_B_R_03/Leg_B_R_End
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_L_01
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_L_01/Leg_F_L_02
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_L_01/Leg_F_L_02/Leg_F_L_03
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_L_01/Leg_F_L_02/Leg_F_L_03/Leg_F_L_End
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_R_01
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_R_01/Leg_F_R_02
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_R_01/Leg_F_R_02/Leg_F_R_03
+        weight: 1
+      - path: Dummy_Root/Bip001/Bip001-Pelvis/Leg_F_R_01/Leg_F_R_02/Leg_F_R_03/Leg_F_R_End
+        weight: 1
+      - path: MOC_Scouter_SKEL
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Dummy_Root
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MovePoint
+  - Floor
+  - EnemyTower
+  - Laser
+  - Room
+  - TeamHero
+  - TeamTower
+  - TeamMinion
+  - EnemyHero
+  - EnemyMinion
+  - RedLaser
+  - BlueLaser
+  - Minion
+  - TeamNexus
+  - EnemyNexus
+  - HitArea
+  - AttackArea
+  - Bullet
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - Floor
+  - BlueHero
+  - BlueMinion
+  - RedHero
+  - RedMinion
+  - BlueStructure
+  - RedStructure
+  - Skill
+  - RedFogLayer
+  - BlueFogLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 594bfdbc931c4bb4fa67fb5dc56fd560
+timeCreated: 1442780623
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bottom
+    100002: Bottom_holder
+    100004: Building
+    100006: Building_Floor
+    100008: Coffin
+    100010: DoorWays
+    100012: Middle_Trim
+    100014: Monument_C
+    100016: MonumentA
+    100018: MonumentB
+    100020: Monuments
+    100022: Roof_Outside
+    100024: sarcophagus
+    100026: //RootNode
+    100028: Shrine
+    100030: Slab3
+    100032: Slab5
+    100034: Top_Base
+    100036: Top_Coffin
+    100038: Words
+    400000: Bottom
+    400002: Bottom_holder
+    400004: Building
+    400006: Building_Floor
+    400008: Coffin
+    400010: DoorWays
+    400012: Middle_Trim
+    400014: Monument_C
+    400016: MonumentA
+    400018: MonumentB
+    400020: Monuments
+    400022: Roof_Outside
+    400024: sarcophagus
+    400026: //RootNode
+    400028: Shrine
+    400030: Slab3
+    400032: Slab5
+    400034: Top_Base
+    400036: Top_Coffin
+    400038: Words
+    2300000: Bottom
+    2300002: Bottom_holder
+    2300004: Building
+    2300006: Building_Floor
+    2300008: Coffin
+    2300010: DoorWays
+    2300012: Middle_Trim
+    2300014: Monument_C
+    2300016: MonumentA
+    2300018: MonumentB
+    2300020: Roof_Outside
+    2300022: Slab3
+    2300024: Slab5
+    2300026: Top_Base
+    2300028: Top_Coffin
+    2300030: Words
+    3300000: Bottom
+    3300002: Bottom_holder
+    3300004: Building
+    3300006: Building_Floor
+    3300008: Coffin
+    3300010: DoorWays
+    3300012: Middle_Trim
+    3300014: Monument_C
+    3300016: MonumentA
+    3300018: MonumentB
+    3300020: Roof_Outside
+    3300022: Slab3
+    3300024: Slab5
+    3300026: Top_Base
+    3300028: Top_Coffin
+    3300030: Words
+    4300000: Monument_C
+    4300002: MonumentB
+    4300004: MonumentA
+    4300006: Middle_Trim
+    4300008: Bottom_holder
+    4300010: Building_Floor
+    4300012: Roof_Outside
+    4300014: Building
+    4300016: DoorWays
+    4300018: Coffin
+    4300020: Top_Coffin
+    4300022: Top_Base
+    4300024: Slab3
+    4300026: Words
+    4300028: Slab5
+    4300030: Bottom
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

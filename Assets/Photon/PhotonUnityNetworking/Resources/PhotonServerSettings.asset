@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 24d0b775-0bc3-4af7-9066-d019c3164f32
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: Asia
+    Server: 
+    Port: 0
+    Protocol: 1
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - Enter_SelectTeam
+  - SelectTeam_RPC
+  - Enter_SelectTeam_RPC
+  - TeamInformation_RPC
+  - OnPlayerLeftRoom
+  - DicRoomListUpdate
+  - DestroyRPC
+  - DestroyTurret
+  - HitObject
+  - RemoteHitMinion
+  - SetRemotePlayerTag
+  - Shoot
+  - MinionHitClinent
+  - HitFunc
+  - NoticeLeavePlayer
+  - ArrangeMinion
+  - SetrmNormalAttackColor
+  - RemoteDeadChamp
+  - RemoteDeadMinion
+  - RemoteKillChamp
+  - DeathChamp
+  - KillChamp
+  - RemoteDeadMinion2
+  - RemoteKill
+  - MeleeChampAttack
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
