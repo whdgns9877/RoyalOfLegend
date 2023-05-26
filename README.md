@@ -1,7 +1,7 @@
-# 🎆[ **Team Dino Otoko** ]🎆
+# 🎆[ **Team 돼지 사이에낀 소** ]
 ![TeamLogoOrigin](https://user-images.githubusercontent.com/67819713/195285425-776cdb3e-903e-4650-b33d-4e9d877bcce1.gif)
 #
-# 💾 [ **Me'rror Projects** ] 💾
+# 💾 [ **Royal Of Legend Projects** ] 💾
 ## 🎞️ **Introduce Game**
 &nbsp;
 ### AOS장르인 리그 오브 레전드 게임의 모작
