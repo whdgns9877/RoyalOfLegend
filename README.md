@@ -20,9 +20,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Unity_Collab](https://github.com/whdgns9877/RoyalOfLegend/assets/49630123/62beb077-f0a3-445f-9fa2-889d0664a53c) UnityCollaborate
 &nbsp;
 
 &nbsp;
@@ -33,19 +37,19 @@
 &nbsp;
 
 ## 😎 맡은 업무
-* AudioClip을 ScriptableObject로 만들어 메모리 효율성을 높임
-* 게임에서 사용하는 전체 AudioClip들을 관리하는 AudioManager 클래스 구현
-* 첫 튜토리얼 퍼즐 구현
+* 모든 챔피언들이 사용하는 BaseCharacterController 스크립트 작성
+* 미니언 AI의 생성및 FSM 구현
+* 유니티 프로젝터를 이용한 사거리 표시
+* Tag & Layer를 활용한 적과 아군 구별 구현
 
 &nbsp;
 
 ## ❕ 깨달은 점
-* ScriptableObject활용으로 데이터 관리및 조작의 용이성과 재사용,확장성 측면에서의 이점을 깨닫게됨
-* 게임 전체적인 오디오를 관장하는 매니저급의 스크립트 작성으로 코드 전체적 설계의 중요성을 깨닫게됨
-* ObserverPattern 사용으로 여러 객체를 관리하기 쉬움을 학습
+* 상속을 사용하여 객체지향 프로그래밍에 대한 이해도 증가
+* FSM구조를 활용해 봄으로서 AI, Player의 상태를 관리하기 용이함을 학습
+* 유니티의 Tag 와 Layer를 활용하여 각자의 클라이언트에서 프로세스를 처리하기 용이함을 학습
 
 &nbsp;
 
-* Development Log : [Development Log](https://blog.naver.com/whdgns9877/222898388447)
-* Notion : [Notion](https://topaz-mantis-c3b.notion.site/Team-Relax-Box-0c84487b632e43e79223cae4f1cbf232)
+* Development Log : [Development Log](https://blog.naver.com/whdgns9877/221978358398)
 
