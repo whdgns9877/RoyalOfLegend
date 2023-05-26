@@ -1,7 +1,7 @@
-# 🎆[ **Team 돼지 사이에낀 소** ]
-![TeamLogoOrigin](https://user-images.githubusercontent.com/67819713/195285425-776cdb3e-903e-4650-b33d-4e9d877bcce1.gif)
+# 🎆[ **Team DinoOtoko** ]
+
 #
-# 💾 [ **Royal Of Legend Projects** ] 💾
+# 💾 [ **Royal Of Legend Projects** ]
 ## 🎞️ **Introduce Game**
 &nbsp;
 ### AOS장르인 리그 오브 레전드 게임의 모작
@@ -48,6 +48,7 @@
 * 상속을 사용하여 객체지향 프로그래밍에 대한 이해도 증가
 * FSM구조를 활용해 봄으로서 AI, Player의 상태를 관리하기 용이함을 학습
 * 유니티의 Tag 와 Layer를 활용하여 각자의 클라이언트에서 프로세스를 처리하기 용이함을 학습
+* 협업을 위해 Unity Collaborate를 사용하였지만 용량제한, 속도등의 문제로 협업에 용이한 도구가 아님을 깨달음
 
 &nbsp;
 
